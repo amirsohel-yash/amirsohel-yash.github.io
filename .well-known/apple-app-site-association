@@ -5,7 +5,7 @@
             {
                 "appID": "5PC3ZFC67L.com.yashtechnologies.ShopEase",
                 "paths": [
-                    "/*"
+                    "*"
                 ]
             }
         ]
