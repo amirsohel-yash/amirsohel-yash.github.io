@@ -1,15 +1,15 @@
 {
-  "applinks": {
-    "apps": [
-      ""
-    ],
-    "details": [
-      {
-        "appID": "5PC3ZFC67L.com.yashtechnologies.ShopEase",
-        "paths": [
-          "/*"
-        ],
-      },  
-    ],  
-  }, 
+   "applinks":{
+      "apps":[
+         ""
+      ],
+      "details":[
+         {
+            "appID":"5PC3ZFC67L.com.yashtechnologies.ShopEase",
+            "paths":[
+               "/*"
+            ]
+         }
+      ]
+   }
 }
